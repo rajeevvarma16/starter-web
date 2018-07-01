@@ -9,6 +9,9 @@ Some commands to use.
 
 ## Purpose
 
+As stated above
+
 ## Deployment
+deployemnt can be on any web server or any file system
 
 ## How to contribute
