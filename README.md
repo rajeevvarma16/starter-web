@@ -1,5 +1,8 @@
 # Start page
 
+This is a simple website for showing 
+how to use git and github together.
+
 ## Intro
 
 ## Purpose
